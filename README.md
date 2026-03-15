@@ -1,0 +1,1 @@
+# PSR Clinical Validation\n\nThis repository contains the reproducibility code and figures for the Physiologic Stability Reserve (PSR) manuscript.\n\n### Key Findings\n- **Adjusted Hazard Ratio:** 0.894 (p < 0.001)\n- **Clinical Utility:** DCA demonstrated a maximum net benefit gain of 170.5%.
